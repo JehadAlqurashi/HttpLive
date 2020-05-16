@@ -2,7 +2,7 @@
 <h2>installation:</h3>
 <pre>
 git clone https://github.com/RedVirus0/HttpLive.git
-cd HttpLive</b></p>
+cd HttpLive
 pip3 install -r requirements.txt
 python3 HttpLive.py -h
 </pre>
